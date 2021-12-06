@@ -9,3 +9,5 @@
 - study ADI ADuCm355 (from Clock Gating Register)
 - practice to create Library in Dart language
 - write a code using Win32 COM port based on Dart Win32 package for desktop
+
+git double dot 테스트 - git log main..todo (main에는 없고, todo에 있는 경우 / 즉, todo가 main에 merge 않된 경우)
