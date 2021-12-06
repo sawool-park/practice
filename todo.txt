@@ -1,2 +1,9 @@
 2021/12/04
 - 토요일이니 푹 쉬자.
+2021/12/06
+- Dart class study and memo on onenote (regular, abstract, implements, mixin, mixin and on, extension on)
+- study ADI ADuCm355 - UART, Timers, WDT(Watch Dog Timer), WUT(Wakeup Timer), Clock Gating (until general description)
+  connect AFE High Speed Oscilator(16MHz) to the external clock of digital die
+  clock recovery when entering and exiting hibernation mode
+2021/12/07
+- study ADI ADuCm355 (from Clock Gating Register)
